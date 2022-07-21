@@ -1,0 +1,12 @@
+{
+  "name": "zfzl-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/entry",
+  "bin": "bin/entry",
+  "scripts": {
+    "start": "node bin/entry.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
